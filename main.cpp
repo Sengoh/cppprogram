@@ -10,6 +10,6 @@ int main()
     cout << "Enter width:";
     cin >> b;
     cout << "Enter length:";
-    cin >> l
+    cin >> l;
     cout << "The volume is " << h*b*l;
 }
