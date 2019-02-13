@@ -4,8 +4,12 @@ using namespace std;
 
 int main()
 {
-    string mystr;
-    cout << "Enter your name:";
-    cin >> mystr;
-    cout << "\n So your name is " << mystr;
+    int h,b,l;
+    cout << "Enter height:";
+    cin >> h;
+    cout << "Enter width:";
+    cin >> b;
+    cout << "Enter length:";
+    cin >> l
+    cout << "The volume is " << h*b*l;
 }
